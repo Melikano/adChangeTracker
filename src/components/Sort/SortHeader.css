@@ -1,0 +1,13 @@
+@media only screen and (max-width: 600px) {
+  .sort-header {
+    text-align: center;
+  }
+}
+.sort-header {
+  direction: rtl;
+  margin: 20px;
+}
+
+.sort-header label {
+  margin-left: 10px;
+}
